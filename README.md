@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-6. Inicia el servidor de desarrollo de Django:
+5. Inicia el servidor de desarrollo de Django:
 ```bash
 python manage.py runserver
 ```
